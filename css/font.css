@@ -1,0 +1,29 @@
+@font-face {
+  font-family: Archangelsk;
+  font-style: normal;
+  src: local("Archangelsk"),
+  url("../fonts/AnyConv.com__ofont.ru_Archangelsk.woff2") format("woff2"),
+  url("../fonts/AnyConv.com__ofont.ru_Archangelsk.woff") format("woff"),
+  url("../fonts/AnyConv.com__ofont.ru_Archangelsk.eot") format("eot");
+  font-display: swap;
+}
+@font-face {
+  font-family: Roboto;
+  font-size: 900;
+  font-style: normal;
+  src: local("Roboto"),
+  url("../fonts/AnyConv.com__Roboto-Bold.woff2") format("woff2"),
+  url("../fonts/AnyConv.com__Roboto-Bold.woff") format("woff"),
+  url("../fonts/AnyConv.com__Roboto-Bold.eot") format("eot");
+  font-display: swap;
+}
+@font-face {
+  font-family: Roboto;
+  font-size: 400;
+  font-style: normal;
+  src: local("Roboto"),
+  url("../fonts/AnyConv.com__Roboto-Regular.woff2") format("woff2"),
+  url("../fonts/AnyConv.com__Roboto-Regular.woff") format("woff"),
+  url("../fonts/AnyConv.com__Roboto-Regular.eot") format("eot");
+  font-display: swap;
+}
